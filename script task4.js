@@ -532,7 +532,7 @@ Salary
 
 
 //Employee Data
-let employees = [
+/*let employees = [
   {
     name: "Arun",
     age: 25,
@@ -607,4 +607,4 @@ function* employeeBenefits() {
 let benefits = employeeBenefits();
 for (let perk of benefits) {
   console.log(`Benefit: ${perk}`);
-}
+}  */
