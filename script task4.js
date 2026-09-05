@@ -497,40 +497,6 @@ Role
 Salary
 
  */
-
-// let employees = [
-//     {
-//         name: "Arun",
-//         age: 25,
-//         department: "IT",
-//         role: "Developer",
-//         salary: 40000
-//     },
-//     {
-//         name: "Priya",
-//         age: 24,
-//         department: "HR",
-//         role: "HR Executive",
-//         salary: 35000
-//     }
-// ];
-// //  for...of
-// // Print every employee.
-// for(let employee of employees){
-//     console.log(employee);
-// }
-
-// // for...in
-// // Print each employee's keys and values.
-
-// for(let employee of employees){
-//     for(let key in employee){
-//         console.log(`${key} : ${employee[key]}`)
-//     }
-// }
-
-
-
 //Employee Data
 /*let employees = [
   {
