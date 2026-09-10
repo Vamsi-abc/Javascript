@@ -480,7 +480,7 @@ Total Salary: ₹160000
 Highest Salary: ₹65000
 Average Salary: ₹53333  */
 
-let employees = [
+/*let employees = [
     {
         id: 101,
         name: "Arun",
@@ -543,5 +543,4 @@ console.log("Statitics Display :");
 console.log("Total Employees :", totalEmpCount);
 console.log("Total Company Salary : Rs/-",totalcomSal);
 console.log("Highest Salary : Rs/-",highSal.salary);
-console.log("Average Salary :Rs/-",avgSal);
-console.log("");
+console.log("Average Salary :Rs/-",avgSal);*/
